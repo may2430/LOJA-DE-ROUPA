@@ -1,6 +1,7 @@
-
-
-
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sua Loja de Roupas</title>
  <title>Sua Loja de Roupas</title>
     <!-- Inclui o CDN do Tailwind CSS para estilização rápida e responsiva -->
     <script src="https://cdn.tailwindcss.com"></script>
